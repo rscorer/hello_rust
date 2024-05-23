@@ -1,5 +1,5 @@
 use leptos::*;
-use {{crate_name}}::App;
+use hello_rust::App;
 
 fn main() {
     // set up logging
